@@ -7,8 +7,10 @@ My interests:
 * computer networks 
 * complexity theory
 
-[My codeforces profile](https://codeforces.com/profile/Vitaly239239)
-
 In the past: 
-* participated in math olympiads a lot 
+* participated in math olympiads a lot (IMC 2024 gold, 10th place on National Olympiad)
 * worked as ML engineer / Data Scientist for 2.5 years, mostly working with user logs and classification tasks
+
+[My codeforces profile](https://codeforces.com/profile/Vitaly239239)
+Feel free to contact me in telegram: @F47P2971215073
+Or by email: vitaly14kurin@gmail.com
