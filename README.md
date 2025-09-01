@@ -1,6 +1,6 @@
 [My github](https://github.com/F47-503)
 
-I am a student of Applied Computer Science program in Neapolis University Pafos and an intern in National University of Singapore under supervision of professor Ilya Sergey.
+I am a final year student of Applied Computer Science program in Neapolis University Pafos and an intern in National University of Singapore under supervision of professor Ilya Sergey.
 
 My interests include formal methods, competitive programming, mathematics, computer networks and complexity theory.
 
