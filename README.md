@@ -8,7 +8,7 @@ My interests:
 * complexity theory
 
 In the past: 
-* participated in math olympiads a lot (IMC 2024 gold, 10th place on National Olympiad)
+* participated in math olympiads a lot (IMC 2024 gold, 10th place on National Olympiad for school students)
 * worked as ML engineer / Data Scientist for 2.5 years, mostly working with user logs and classification tasks
 
 [My codeforces profile](https://codeforces.com/profile/Vitaly239239)
