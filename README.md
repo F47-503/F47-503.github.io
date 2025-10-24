@@ -1,4 +1,4 @@
-I am a final year student of Applied Computer Science program in Neapolis University Pafos and research intern in National University of Singapore under supervision of professor Ilya Sergey.
+I am a final year student of Applied Computer Science program in Neapolis University Pafos.
 
 My interests: 
 * formal methods
@@ -10,6 +10,8 @@ My interests:
 In the past: 
 * participated in math olympiads a lot (IMC 2024 gold, 10th place on National Olympiad for school students)
 * worked as ML engineer / Data Scientist for 2.5 years, mostly working with user logs and classification tasks
+* completed an internship at National University of Singapore under supervision of professor Ilya Sergey. 
+  As part of my internship, I participated in development of [Loom framework](https://github.com/verse-lab/loom).
 
 [My codeforces profile](https://codeforces.com/profile/Vitaly239239)
 
